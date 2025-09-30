@@ -1,4 +1,4 @@
-# created a ML Project folder
+# created a Tip Inference App
 
 # creating a virtual environment 
 # in wndows is
