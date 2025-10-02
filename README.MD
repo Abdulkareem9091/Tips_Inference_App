@@ -1,7 +1,8 @@
 # created a Tip Inference App
 
 # creating a virtual environment 
-# in wndows is
+# in wi
+ndows is
 python -- version to check python version
 To clear the terminal we use "clear" command
 python -m venv mlpro to create a virtual environment
